@@ -1,4 +1,4 @@
-# -Student-Result-Analysis
+# Student-Result-Analysis
 This project focuses on analyzing student results data to uncover insights into various demographic and educational factors. The analysis includes gender distribution, the relationship between parents' education and students' scores, the relationship between parents' marital status and students' scores, and the distribution of ethnic groups in the dataset.
 
 Dataset The dataset used in this analysis contains the following columns:  
